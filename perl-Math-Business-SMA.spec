@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	Business-SMA
+%define		pdir	Math
+%define		pnam	Business-SMA
 Summary:	Math::Business::SMA - Perl extension for calculating SMAs
 Summary(pl):	Math::Business::SMA - rozszerzenie Perla do obliczania SMA
 Name:		perl-Math-Business-SMA
