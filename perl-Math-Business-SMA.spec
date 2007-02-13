@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Business-SMA
 Summary:	Math::Business::SMA - Perl extension for calculating SMAs
-Summary(pl.UTF-8):   Math::Business::SMA - rozszerzenie Perla do obliczania SMA
+Summary(pl.UTF-8):	Math::Business::SMA - rozszerzenie Perla do obliczania SMA
 Name:		perl-Math-Business-SMA
 Version:	0.99
 Release:	2
