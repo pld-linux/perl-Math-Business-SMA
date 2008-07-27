@@ -9,7 +9,7 @@ Summary:	Math::Business::SMA - Perl extension for calculating SMAs
 Summary(pl.UTF-8):	Math::Business::SMA - rozszerzenie Perla do obliczania SMA
 Name:		perl-Math-Business-SMA
 Version:	0.99
-Release:	2
+Release:	3
 License:	unknown
 Vendor:		Jettero Heller <jettero@cpan.org>
 Group:		Development/Languages/Perl
